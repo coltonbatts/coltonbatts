@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on nothing at the moment
 - 📫 How to reach me x.com/BattsColton
-- 😄 Pronouns: he/him
 - ⚡ Fun fact: - the horrors persist and so do i
 
 <!---
