@@ -5,7 +5,7 @@
 🛠 Currently building agentic workflows, RAG apps, and AI video editing tools (DaVinci + MCP)  
 📚 Exploring how storytelling, design, and language models collide  
 🌐 Personal site: [coltonbatts.com](https://coltonbatts.com)  
-🐦 Posting ideas & experiments on X: [@coltonbats](https://x.com/coltonbats)  
+🐦 Posting ideas & experiments on X: [@coltonbats](https://x.com/theColtonBatts  
 📺 Launching: *First Principles*, a YouTube series for creative-tech thinkers  
 
 ---
