@@ -74,6 +74,13 @@ My personal automation system for creatives. Think of it as an AI assistant with
 
 ## Featured Projects
 
+### Color Wizard
+**What:** Premium color & light analysis tool for designers, photographers, and creatives  
+**Features:** High-precision image analysis, instant color recipes, pro-grade output  
+**Why:** Stop guessing. Analyze light, value, and color with precision  
+**Status:** Live and growing  
+🎨 **[colorwizard.app](https://colorwizard.app)** ← Try it now
+
 ### Remotion Thumbnail Generator
 **What:** AI-powered YouTube thumbnail creation with 25 preset expressions  
 **Why:** Generate unlimited variations at zero cost; ship it as an Agent Skill for other creators  
