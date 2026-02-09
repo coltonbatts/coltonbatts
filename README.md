@@ -12,8 +12,8 @@ I build stuff with computers and I also paint.
 ---
 
 ### Projects
-*   **[ColorWizard](https://github.com/coltonbatts/colorwizard)** – This is what I’m working hardest on. It’s a tool for oil painters to analyze light and color using spectral mixing.
-*   **[OpenClaw Inspector](https://github.com/coltonbatts/OpenClaw_Inspector)** – A simple GUI for monitoring what my AI agents are actually doing.
+*   **[CHROMA]((https://github.com/coltonbatts/chroma))** – This is what I’m working hardest on. It’s a tool for oil painters to analyze light and color using spectral mixing.
+*   
 
 ---
 
