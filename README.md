@@ -1,28 +1,32 @@
 # Colton Batts
 
-I build stuff with computers and I also paint.
+I build software for creative people. Right now, my main focus is **VCR**.
 
----
+![Welcome to VCR](https://raw.githubusercontent.com/coltonbatts/VCR/main/welcome%20to%20VCR.jpg)
 
+## Featured Project: VCR (Video Component Renderer)
 
-> I’m tired of how software works now. I don’t like the subscription-everything model or the feeling that you’re just renting your tools from a corporation. 
-> 
-> I like physical media, I like owning things outright, and I think software should feel more like that. If I build something and you buy it, it’s yours.
+**VCR** is a headless motion graphics renderer for generating broadcast-ready ProRes 4444 with alpha from declarative scene files.
 
----
+- Repo: [coltonbatts/VCR](https://github.com/coltonbatts/VCR)
+- Focus: fast, deterministic motion graphics workflows without GUI lock-in
+- Use cases: lower thirds, overlays, procedural graphics, repeatable branded motion systems
 
-### Projects
-*   **[CHROMA]((https://github.com/coltonbatts/chroma))** – This is what I’m working hardest on. It’s a tool for oil painters to analyze light and color using spectral mixing.
-*   
+## Why I'm Building It
 
----
+I care about creative tools that are ownable, scriptable, and built for long-term control instead of subscriptions and lock-in.
 
-###  Currently Working On
-*   Messing with a **homelab setup** on an old Mac Mini to keep more of my work off other people's servers.
+## Currently Working On
 
----
+- Expanding VCR examples and docs
+- Improving render ergonomics and pipeline reliability
+- Building practical motion presets for real edit workflows
 
+## Other Projects
 
+- [CHROMA](https://github.com/coltonbatts/chroma): a tool for oil painters to analyze light and color with spectral mixing
 
-### 🔗 Connect
-🌐 [coltonbatts.com](https://coltonbatts.com)
+## Connect
+
+- [coltonbatts.com](https://coltonbatts.com)
+- [First Principles](https://youtube.com/@firstprinciples)
