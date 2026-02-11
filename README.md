@@ -2,7 +2,7 @@
 
 I build software for creative people. Right now, my main focus is **VCR**.
 
-![Welcome to VCR]([https://raw.githubusercontent.com/coltonbatts/VCR/main/welcome%20to%20VCR.jpg](https://raw.githubusercontent.com/coltonbatts/VCR/main/assets/welcome%20to%20VCR.jpg))
+![Welcome to VCR](https://raw.githubusercontent.com/coltonbatts/VCR/main/assets/welcome%20to%20VCR.jpg)
 
 ## Featured Project: VCR (Video Component Renderer)
 
